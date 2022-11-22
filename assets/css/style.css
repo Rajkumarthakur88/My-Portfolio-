@@ -417,8 +417,12 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
+.skill-span{
+  font-size: 18px;
+  font-weight: 500;
+}
 .skills .progress {
   height: 60px;
   display: block;
@@ -620,6 +624,11 @@ section {
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
+}
+
+.img-fluid-portfolio{
+  width: 500px;
+  height: 300px;
 }
 
 .portfolio-details .portfolio-details-slider img {

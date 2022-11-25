@@ -1076,6 +1076,9 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
+  .footer-copyright-text{
+    display: none;
+  }
 }
 
 /*--------------------------------------------------------------
